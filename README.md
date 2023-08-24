@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gauraang24
+- 👋 Hi, I’m @Gaurang_More
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on FrontEnd projects on ReactJS
