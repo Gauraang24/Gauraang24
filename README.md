@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @Gaurang_More
-- 👀 I’m interested in Web Development
-- 🌱 Skills : HTML/CSS/JS, ReactJS, NextJs, TailwindCSS.
-- 💞️ I’m looking to collaborate on FrontEnd projects on ReactJS
-- 📫 How to reach me moregaurang01@gmail.com
+# 👋 Hi there! I'm Gaurang More  
+
+I'm a passionate **Front-End Developer** specializing in building responsive, dynamic, and visually appealing web applications. With expertise in modern frameworks and a drive to continually expand my skill set, I aim to craft seamless user experiences.
+
+---
+
+### 👨‍💻 About Me
+- 🚀 **Exploring** the latest in Web Development and Frontend Technologies.  
+- 🌱 **Skills:**  
+  - **Core:** HTML, CSS, JavaScript, TypeScript  
+  - **Frameworks & Libraries:** ReactJS, Redux, Next.js, TailwindCSS
+
 
 <!---
 Gauraang24/Gauraang24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
