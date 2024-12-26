@@ -8,7 +8,7 @@ I'm a passionate **Front-End Developer** specializing in building responsive, dy
 - 🚀 **Exploring** the latest in Web Development and Frontend Technologies.  
 - 🌱 **Skills:**  
   - **Core:** HTML, CSS, JavaScript, TypeScript  
-  - **Frameworks & Libraries:** ReactJS, Redux, Next.js, TailwindCSS
+  - **Frameworks & Libraries:** ReactJS, Redux, Next.js, TailwindCSS, NodeJs, Express, MongoDB
 
 
 <!---
